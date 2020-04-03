@@ -12,7 +12,7 @@ C++ repo.
 
 Visualization cube and pose messages are visualized using rviz `markers` and `PoseStamped` messages.
 
-![rviz visualization](images/pixhawk_ekf_rviz.gif)
+![rviz visualization](images/pixhawkekf_rviz_visualization.gif)
 
 ## TODOs
 - [x] Use gyro bias in EKF state
