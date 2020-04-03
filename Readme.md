@@ -15,9 +15,11 @@ Visualization cube and pose messages are visualized using rviz `markers` and `Po
 ![rviz visualization](images/pixhawkekf_rviz_visualization.gif)
 
 ## TODOs
+
 - [x] Use gyro bias in EKF state
 - [ ] Try to use magnetometer in pixhawk
 - [ ] Seperate ros and EKF implementation
+- [ ] Calibrate Accelerometer and if(magentometer)
 
 ### Resources
 
